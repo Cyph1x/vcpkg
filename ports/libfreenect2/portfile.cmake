@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO Cyph1x/libfreenect2
     REF "v${VERSION}"
-    SHA512 0fcee5471deb013d2b57581ef8d8838f652dfed2f457c4240d5b754674e949c59337a167ac74ad04b25ace69af470a7e014e0474a688d930a3323946feadee67
+    SHA512 0
     HEAD_REF master
     PATCHES
         fix-dependency-libusb.patch
